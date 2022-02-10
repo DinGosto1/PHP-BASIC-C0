@@ -18,7 +18,7 @@
 /* 
  * Opdracht 2: Zet hier de $buttons array neer 
  */
-$buttons = array(400, 500, 750, 1000, 1500, 333);
+$buttons = array(56.9, 500, 750, 1000, 1500, 333);
 
 
 /******************************************* OPDRACHT 2 doe je hierboven *******************************************/
